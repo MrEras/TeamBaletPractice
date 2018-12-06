@@ -6,7 +6,8 @@ class Calculator {
     public int Suma(int a, int b){
       return a+b;
     }
-    public int Resta(int a, int b){
-      return a-b;
+    public int Resta(int eras, int a, int b){
+      return a-b+eras;
+	//sorry por la lateanza
     }
 }
